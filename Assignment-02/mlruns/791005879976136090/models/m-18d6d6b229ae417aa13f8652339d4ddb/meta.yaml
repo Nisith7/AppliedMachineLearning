@@ -1,0 +1,10 @@
+artifact_location: file:///Users/nisith/Desktop/AppML/AppliedMachineLearning/Assignment-02/mlruns/791005879976136090/models/m-18d6d6b229ae417aa13f8652339d4ddb/artifacts
+creation_timestamp: 1772564909836
+experiment_id: '791005879976136090'
+last_updated_timestamp: 1772564912045
+model_id: m-18d6d6b229ae417aa13f8652339d4ddb
+model_type: null
+name: model
+source_run_id: 9d2405b398e34d10854380356472977c
+status: 2
+status_message: null

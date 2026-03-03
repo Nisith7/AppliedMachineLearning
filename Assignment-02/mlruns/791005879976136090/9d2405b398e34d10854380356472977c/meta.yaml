@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nisith/Desktop/AppML/AppliedMachineLearning/Assignment-02/mlruns/791005879976136090/9d2405b398e34d10854380356472977c/artifacts
+end_time: 1772564912047
+entry_point_name: ''
+experiment_id: '791005879976136090'
+lifecycle_stage: active
+run_id: 9d2405b398e34d10854380356472977c
+run_name: Naive_Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772564909819
+status: 3
+tags: []
+user_id: nisith

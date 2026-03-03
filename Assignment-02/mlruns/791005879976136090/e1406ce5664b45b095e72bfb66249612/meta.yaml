@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/nisith/Desktop/AppML/AppliedMachineLearning/Assignment-02/mlruns/791005879976136090/e1406ce5664b45b095e72bfb66249612/artifacts
+end_time: 1772564903599
+entry_point_name: ''
+experiment_id: '791005879976136090'
+lifecycle_stage: active
+run_id: e1406ce5664b45b095e72bfb66249612
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772564900865
+status: 3
+tags: []
+user_id: nisith
