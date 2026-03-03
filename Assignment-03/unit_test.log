@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.13.0, pytest-9.0.2, pluggy-1.6.0 -- /Users/nisith/Desktop/AppML/AppliedMachineLearning/.venv/bin/python3
+cachedir: .pytest_cache
+rootdir: /Users/nisith/Desktop/AppML/AppliedMachineLearning/Assignment-03
+plugins: hydra-core-1.3.2, cov-7.0.0
+collecting ... ERROR: file or directory not found: unit_test.py
+
+collected 0 items
+
+============================ no tests ran in 0.02s =============================
