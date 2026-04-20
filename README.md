@@ -93,3 +93,7 @@ In train.ipynb:
 6. Select the best model based on AUCPR  
 
 The goal is to demonstrate structured experiment tracking, model comparison, and model version management following industry best practices.
+
+
+---
+# Assignment-05: CNN and Transformers
